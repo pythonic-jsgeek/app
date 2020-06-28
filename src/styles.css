@@ -1,0 +1,98 @@
+
+.whole {
+  max-width: 300px;
+  min-width: 250px;
+  background-color: #e5e5e5;
+  margin: auto;
+}
+.upper {
+  background-color: #00b4d8;
+  height: 130px;
+  border-radius: 0 0px 150px 150px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+.login {
+  font-size: 23px;
+  margin: -10px 15px;
+  color: #023e8a;
+}
+.content {
+  margin: 10%;
+}
+.inputbox {
+  height: 40px;
+  width: 200px;
+  border-width: 0px;
+  background-color: #00b4d8;
+  border-radius: 25px;
+  margin: 11px 5px;
+  color: white;
+  font-size: 15px;
+}
+::placeholder {
+  color: white;
+  opacity: 1;
+  font-size: 17px;
+}
+.forget {
+  margin-left: 60px;
+  color: #00b4d8;
+  cursor: poiner;
+}
+#submit {
+  width: 140px;
+  margin-left: 60px;
+  background-color: #fca311;
+}
+.newaccount {
+  font-size: 13px;
+  margin: 40px;
+  color: #00b4d8;
+}
+/* sign In page finished */
+
+.signuppage{
+  text-align: center;
+  height: 450px;
+  min-width: 250px;
+ max-width: 300px;
+ background-color: white; 
+}
+.signupname{
+  font-size: 23px;
+  color: #a100f2;
+  padding: 30px 30px 10px 30px;
+}
+.inputsignup{
+  width: 200px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  margin: 10px 0;
+  color: #a100f2;
+  font-size: 15px;
+  padding-bottom: 12px;
+}
+ ::placeholder {
+   color: #8d99ae;
+   opacity: 0.8;
+   font-size: 15px;
+}
+
+.signup{
+  width: 160px;
+  margin: 10px auto ;
+  background-color: #a100f2;
+  height: 33px;
+  border-radius: 25px;
+  border: none;
+  color: white;
+  font-size: 17px;
+  display: block;
+}
+.signinlink{
+  margin: 35px;
+  color: black;
+  opacity: 0.5;
+}
